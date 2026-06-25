@@ -1,5 +1,3 @@
-# IBM-HR-Attrition-Analysis
-
 # IBM HR Employee Attrition & Performance Analysis
 
 ### 📊 Project Overview
